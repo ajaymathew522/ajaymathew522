@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ###Connect :handshake: with me via
-[![linkedin](https://www.fpsa.org/wp-content/uploads/linkedin-logo-copy.png)=36x36](https://www.linkedin.com/in/ajaymathew522/)
+[![linkedin]<img src="https://www.fpsa.org/wp-content/uploads/linkedin-logo-copy.png" height=36px](https://www.linkedin.com/in/ajaymathew522/)
