@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-###Connect :handshake: with me via [![linkedin](https://www.fpsa.org/wp-content/uploads/linkedin-logo-copy.png)](https://www.linkedin.com/in/ajaymathew522/)
+###Connect :handshake: with me via
+[![linkedin](https://www.fpsa.org/wp-content/uploads/linkedin-logo-copy.png)| height=20px](https://www.linkedin.com/in/ajaymathew522/)
