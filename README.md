@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Connect :handshake: with me via
-[![linkedin](https://github.com/ajaymathew522/ajaymathew522/blob/master/images/linkedin.png)](https://www.linkedin.com/in/ajaymathew522/)                                 [![mail](https://github.com/ajaymathew522/ajaymathew522/blob/master/images/email.png)](mailto:ajaymathew522@gmail.com)
+[![linkedin](https://github.com/ajaymathew522/ajaymathew522/blob/master/images/linkedin.png)](https://www.linkedin.com/in/ajaymathew522/) &nbsp;&nbsp;&nbsp; [![mail](https://github.com/ajaymathew522/ajaymathew522/blob/master/images/email.png)](mailto:ajaymathew522@gmail.com)
