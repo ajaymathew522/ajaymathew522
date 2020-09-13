@@ -10,7 +10,7 @@ I'm interested in Data Science, Big Data and Machine Learning. Always striving t
 - 👯 I’m looking to collaborate on any projects that are of interest to me🤗
 - 🤔 I’m looking for help with Mathematics of Machine Learning😇
 - 💬 Ask me about anything, if I don't know something, I'll learn and then help you🤓
-- 📫 How to reach me: Use any of the methods specified above😉
+- 📫 How to reach me: Use any of the methods specified above😉 or visit my [Portfolio Website](https://ajaymathew522.github.io/) 😊
 
 
 
